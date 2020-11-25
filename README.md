@@ -1,2 +1,3 @@
-# Android Music Player Example
- Java basic music player
+#Basit Müzik Çalar
+
+Java ile Android studioda tasarlanmıştır. 
